@@ -26,6 +26,9 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=grey)](https://github.com/lucasgls?tab=repositories)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=grey)](https://github.com/lucasgls?tab=repositories)
+[![C#](https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=csharp&logoColor=purple&color=grey)](https://github.com/lucasgls?tab=repositories)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black&color=grey)](https://github.com/lucasgls?tab=repositories)
+[![Azure](https://img.shields.io/badge/Azure-323330?style=for-the-badge&logo=microsoftazure&logoColor=blue&color=grey)](https://github.com/lucasgls?tab=repositories)
 
 
 ## **Social ✌️**
