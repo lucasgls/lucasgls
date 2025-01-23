@@ -29,5 +29,5 @@
     Working on other projects while building a portfolio;
 
 ## **Contact 📭**
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:seuendereco@email.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/494898176793378836)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasglsilva7@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/673237603205775381)
