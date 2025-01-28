@@ -1,10 +1,10 @@
-<hr>
 ## Hello everybody! I'm Lucas Gabriel 👋
 
 <a href="https://github.com/lucasgls">
     <img src="https://komarev.com/ghpvc/?username=lucasgls&style=for-the-badge&color=grey" alt="Give me another view" align= "right"></img>
     <br>
 </a>
+
 
 ## **About me** 🤓
 
@@ -34,4 +34,5 @@
 ## **Contact 📭**
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasglsilva7@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/673237603205775381)
+
 <hr>
