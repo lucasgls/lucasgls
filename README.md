@@ -10,8 +10,6 @@
 
 - I'm a passionate developer who has been into computers since I was young now I'm 19 and improving my programming skills. I enjoy creating and learning about different technologies in the industry. Currently, I'm working on honing my skills to break into the backend market soon.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgls&theme=dark)
-
 <code> Console.WriteLine("By the way, I'm looking for an internship! 👀"); </code>
 
  ## **Skills 💻** 
