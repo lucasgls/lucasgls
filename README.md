@@ -17,11 +17,11 @@
  ## **Skills 💻** 
  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,git)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,cs,mysql,git)](https://github.com/lucasgls?tab=repositories)
 
 ## **Studing 📚** 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,javascript,nodejs,mysql)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://github.com/lucasgls?tab=repositories)
 
 
 ## **Social ✌️**
@@ -33,6 +33,6 @@
 
 ## **Contact 📭**
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasglsilva7@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/673237603205775381)
+[![Discord](https://skillicons.dev/icons?i=discord)]()
 
 <hr>
