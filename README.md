@@ -19,7 +19,7 @@
 
 ## **Studing 📚** 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py,azure)](https://github.com/lucasgls?tab=repositories)
 
 
 ## **Social ✌️**
