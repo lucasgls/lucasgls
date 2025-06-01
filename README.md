@@ -31,6 +31,5 @@
 
 ## **Contact 📭**
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasglsilva7@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)]()
 
 <hr>
