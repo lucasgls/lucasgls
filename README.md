@@ -19,7 +19,7 @@
 
 ## **Studing 📚** 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,azure)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,azure,aws)](https://github.com/lucasgls?tab=repositories)
 
 
 ## **Social ✌️**
