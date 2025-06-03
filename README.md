@@ -15,11 +15,11 @@
  ## **Skills 💻** 
  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,cs,mysql,git)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=py,javascript,react,cs,mysql,git)](https://github.com/lucasgls?tab=repositories)
 
 ## **Studing 📚** 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py,azure)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,azure)](https://github.com/lucasgls?tab=repositories)
 
 
 ## **Social ✌️**
