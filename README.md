@@ -13,8 +13,7 @@
 
  ## **Skills 💻** 
  
-
-[![My Skills](https://skillicons.dev/icons?i=py,javascript,react,cs,mysql,git)](https://github.com/lucasgls?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,react,mysql,git)](https://github.com/lucasgls?tab=repositories)
 
 ## **Studing 📚** 
 
