@@ -1,7 +1,7 @@
 ## Hello everybody! I'm Lucas Gabriel 👋
 
 <a href="https://github.com/lucasgls">
-    
+    <img src="https://komarev.com/ghpvc/?username=lucasgls&style=for-the-badge&color=grey" alt="Give me another view" align= "right"></img>
     <br>
 </a>
 
