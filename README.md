@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estudando: Java com foco em BackEnd.<br><br>🎯 Objetivo: Conseguir uma oportunidade em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.  <br><br>🎲 Curiosidade: Meu primeiro contato com programação foi aos 10 anos, criando um servidor de Minecraft em Java 😅</p>
+<p align="left">📚 Atualmente estudando: Java com foco em BackEnd<br><br>🎯 Objetivo: Conseguir uma oportunidade em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.  <br><br>🎲 Curiosidade: Meu primeiro contato com programação foi aos 10 anos, criando um servidor de Minecraft em Java /p>
 
 ###
 
