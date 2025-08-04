@@ -1,33 +1,67 @@
-## Hello everybody! I'm Lucas Gabriel 👋
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls.lucasgls&left_color=black&right_color=cadetblue&left_text=visitantes"  />
+</div>
 
-<a href="https://github.com/lucasgls">
-    <img src="https://komarev.com/ghpvc/?username=lucasgls&style=for-the-badge&color=grey" alt="Give me another view" align= "right"></img>
-    <br>
-</a>
+###
 
+<h1 align="center">👋 Olá visitante!</h1>
 
-## **About me** 🤓
+###
 
-- I'm a passionate developer who has been into computers since I was young now I'm 20 and improving my programming skills. I enjoy creating and learning about different technologies in the industry. Currently, I'm working on honing my skills to break into the backend market soon.
+<h4 align="left">Eu sou o Lucas Gabriel, estudante de Engenharia de Software e apaixonado por tecnologia desde criança.</h4>
 
+###
 
- ## **Skills 💻** 
- 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,azure,aws)](https://github.com/lucasgls?tab=repositories)
+<h2 align="left">Sobre Mim</h2>
 
-## **Studing 📚** 
+###
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react)](https://github.com/lucasgls?tab=repositories)
+<p align="left">📚 Atualmente estudando: Java com foco em BackEnd.<br><br>🎯 Objetivo: Conseguir uma oportunidade em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.  <br><br>🎲 Curiosidade: Meu primeiro contato com programação foi aos 10 anos, criando um servidor de Minecraft em Java 😅</p>
 
+###
 
-## **Social ✌️**
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucasgls/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucassgls/)
+<h2 align="left">Tecnologias</h2>
 
-## **Projects 🤩**
-    Working on other projects while building a portfolio;
+###
 
-## **Contact 📭**
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucasglsilva7@gmail.com)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+</div>
 
-<hr>
+###
+
+<h2 align="left">Vamos Conversar</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo"  />
+</div>
+
+###
+
+<h2 align="left">Projetos</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph.svg">
+</picture>
+
+###
