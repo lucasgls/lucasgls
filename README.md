@@ -55,7 +55,6 @@
 ###
 
 <h2 align="left">Projetos</h2>
-https://lucasgls.github.io/portifolio/
 
 ###
 
