@@ -1,22 +1,39 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls.lucasgls&left_color=black&right_color=cadetblue&left_text=visitantes"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls.lucasgls&left_color=black&right_color=cadetblue&left_text=visitantes" />
 </div>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Lucas+Gabriel!;Desenvolvedor+Backend+Java;Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+</div>
 
-<h1 align="center">👋 Olá visitante!</h1>
+<br>
 
-###
 
-<h4 align="left">Eu sou o Lucas Gabriel, estudante de Engenharia de Software e apaixonado por tecnologia desde criança.</h4>
+## 🚀 Sobre Mim
 
-###
+```java
+public class LucasGabriel {
+    private String nome = "Lucas Gabriel";
+    private String curso = "Engenharia de Software";
+    private String foco = "Desenvolvimento Backend";
+    private String linguagemPrincipal = "Java";
+    
+    public String getObjetivo() {
+        return "Conseguir uma oportunidade em desenvolvimento de software " +
+               "para aplicar meus conhecimentos e evoluir profissionalmente";
+    }
+    
+    public String getCuriosidade() {
+        return "Meu primeiro contato com programação foi aos 10 anos, " +
+               "criando um servidor de Minecraft em Java";
+    }
+}
+```
 
-<h2 align="left">Sobre Mim</h2>
-
-###
-
-<p align="left">📚 Atualmente estudando: Java com foco em BackEnd<br><br>🎯 Objetivo: Conseguir uma oportunidade em desenvolvimento de software para aplicar meus conhecimentos e evoluir profissionalmente.  <br><br>🎲 Curiosidade: Meu primeiro contato com programação foi aos 10 anos, criando um servidor de Minecraft em Java /p>
+📚 **Atualmente estudando:** Java com foco em Backend Development  
+🎯 **Objetivo:** Ingressar no mercado de desenvolvimento de software  
+🎲 **Curiosidade:** Programando desde os 10 anos com Minecraft mods  
+💡 **Interesses:** Clean Code, Design Patterns, Arquitetura de Software
 
 ###
 
