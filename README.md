@@ -24,8 +24,7 @@ public class LucasGabriel {
     }
     
     public String getCuriosidade() {
-        return "Meu primeiro contato com programação foi aos 10 anos, " +
-               "criando um servidor de Minecraft em Java";
+        return "Meu primeiro contato com programação foi aos 10 anos, " 
     }
 }
 ```
