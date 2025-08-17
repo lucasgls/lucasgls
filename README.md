@@ -24,7 +24,7 @@ public class LucasGabriel {
     }
     
     public String getCuriosidade() {
-        return "Meu primeiro contato com programação foi aos 10 anos," 
+        return "Meu primeiro contato com programação foi aos 10 anos" 
     }
 }
 ```
