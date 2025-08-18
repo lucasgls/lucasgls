@@ -63,7 +63,7 @@ public class LucasGabriel {
     <th>Link</th>
   </tr>
   <tr>
-    <td>Todo App Full-Stack</td>
+    <td>Todo App em Java</td>
     <td>Gestão de tarefas com autenticação, CRUD e painel administrativo.</td>
     <td>Java, Spring Boot, React, MySQL, JWT</td>
     <td><a href="https://github.com/lucasgls/todo-app">Repo</a></td>
@@ -71,7 +71,7 @@ public class LucasGabriel {
   
   <tr>
     <td>Portfólio Pessoal</td>
-    <td>Website pessoal responsivo para apresentar projetos e habilidades. (EM DEV)</td>
+    <td>Website pessoal responsivo. (EM DEV)</td>
     <td>React, TypeScript, Tailwind CSS, Vite</td>
     <td><a href="https://lucasgls.github.io/portifolio/">Visitar</a></td>
   </tr>
