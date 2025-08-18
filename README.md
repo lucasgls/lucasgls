@@ -32,11 +32,11 @@ public class LucasGabriel {
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">🤖 Tecnologias</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -48,13 +48,11 @@ public class LucasGabriel {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<h2 align="left">Vamos Conversar</h2>
+<h2 align="left">🤝 Vamos Conversar? </h2>
 
 ###
 
@@ -66,7 +64,7 @@ public class LucasGabriel {
 
 ###
 
-<h2 align="left">Projetos</h2>
+<h2 align="left">💻 Projetos</h2>
 
 ###
 
