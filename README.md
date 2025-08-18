@@ -14,24 +14,21 @@
 ```java
 public class LucasGabriel {
     private String nome = "Lucas Gabriel Lima Silva";
-    private String curso = "Engenharia de Software";
-    private String foco = "Estagio em Desenvolvimento";
-    private String linguagemPrincipal = "Java";
-    
-    public String getObjetivo() {
-        return "Conseguir uma oportunidade em desenvolvimento de software " +
-               "para aplicar meus conhecimentos e evoluir profissionalmente";
-    }
-    
-    public String getCuriosidade() {
-        return "Meu primeiro contato com programação foi aos 10 anos";
-    }
+    private String curso = "Engenharia de Software - USF";
+    private String estudando = "Java com foco em Backend";
+    private String objetivo = "Ingressar no mercado de desenvolvimento de software";
+    private String[] habilidades = {
+        "Programação Orientada a Objetos",
+        "Experiência em dev/consumo de APIs",
+        "Experiência em CRUD",
+        "Banco de Dados Relacionais (MySQL)",
+        "Versionamento de Código (Git/GitHub)",
+        "Cloud Computing (Azure, AWS)",
+        "Boas Práticas: Clean Code e Design Patterns",
+        "Metodologias Ágeis: Scrum"
+    };
 }
 ```
-
-📚 **Atualmente estudando:** Java com foco em Backend Development  
-🎯 **Objetivo:** Ingressar no mercado de desenvolvimento de software    
-💡 **Interesses:** Clean Code, Design Patterns, Arquitetura de Software
 
 ###
 
