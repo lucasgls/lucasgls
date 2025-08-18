@@ -54,7 +54,28 @@ public class LucasGabriel {
 
 <h2 align="left">💻 Projetos em Destaque</h2>
 
-###
+
+<table>
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Todo App Full-Stack</td>
+    <td>Gestão de tarefas com autenticação, CRUD e painel administrativo.</td>
+    <td>Java, Spring Boot, React, MySQL, JWT</td>
+    <td><a href="https://github.com/lucasgls/todo-app">Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td>Portfólio Pessoal</td>
+    <td>Website pessoal responsivo para apresentar projetos e habilidades. (EM DEV)</td>
+    <td>React, TypeScript, Tailwind CSS, Vite</td>
+    <td><a href="https://lucasgls.github.io/portifolio/">Visitar</a></td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph-dark.svg">
