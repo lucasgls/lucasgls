@@ -8,8 +8,7 @@
 
 <br>
 
-
-## 🚀 Sobre Mim
+<h2 align="left">🚀 Sobre Mim </h2>
 
 ```java
 public class LucasGabriel {
@@ -52,7 +51,7 @@ public class LucasGabriel {
 
 ###
 
-<h2 align="left">🤝 Vamos Conversar? </h2>
+<h2 align="left">✉️ Contato</h2>
 
 ###
 
@@ -64,7 +63,7 @@ public class LucasGabriel {
 
 ###
 
-<h2 align="left">💻 Projetos</h2>
+<h2 align="left">💻 Projetos em Destaque</h2>
 
 ###
 
