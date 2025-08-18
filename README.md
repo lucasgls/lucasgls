@@ -13,9 +13,9 @@
 
 ```java
 public class LucasGabriel {
-    private String nome = "Lucas Gabriel";
+    private String nome = "Lucas Gabriel Lima Silva";
     private String curso = "Engenharia de Software";
-    private String foco = "Desenvolvimento Backend";
+    private String foco = "Estagio em Desenvolvimento";
     private String linguagemPrincipal = "Java";
     
     public String getObjetivo() {
@@ -30,8 +30,7 @@ public class LucasGabriel {
 ```
 
 📚 **Atualmente estudando:** Java com foco em Backend Development  
-🎯 **Objetivo:** Ingressar no mercado de desenvolvimento de software  
-🎲 **Curiosidade:** Programando desde os 10 anos com Minecraft mods  
+🎯 **Objetivo:** Ingressar no mercado de desenvolvimento de software    
 💡 **Interesses:** Clean Code, Design Patterns, Arquitetura de Software
 
 ###
