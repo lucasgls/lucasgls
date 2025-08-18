@@ -1,9 +1,9 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls&left_color=black&right_color=cadetblue&left_text=visitas&" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Lucas+Gabriel!;Desenvolvedor+Backend+Java;Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=AFB4C7&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Lucas+Gabriel!;Desenvolvedor+Backend+Java;Estudante+de+Eng.+de+Software;Curioso+e+apaixonado+por+inovação" alt="Typing SVG" />
 </div>
 
 <br>
