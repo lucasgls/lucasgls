@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls.lucasgls&left_color=black&right_color=cadetblue&left_text=visitantes" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgls" />
 </div>
 
 <div align="center">
