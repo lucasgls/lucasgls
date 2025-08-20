@@ -33,8 +33,6 @@ public class LucasGabriel {
 
 <h2 align="left">🤖 Tecnologias</h2>
 
-###
-
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=java,python,spring,ts,mysql,react,docker,aws,azure" alt="My Skills">
 </a>
@@ -53,7 +51,6 @@ public class LucasGabriel {
 ###
 
 <h2 align="left">💻 Projetos em Destaque</h2>
-
 
 <table>
   <tr>
