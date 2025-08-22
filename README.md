@@ -63,7 +63,7 @@ public class LucasGabriel {
     <td>TODO App</td>
     <td>Gestão de tarefas com autenticação, CRUD e painel administrativo.</td>
     <td>Java, Spring Boot, React, MySQL, JWT</td>
-    <td><a href="https://github.com/lucasgls/todo-app">Repo</a></td>
+    <td><a href="https://github.com/lucasgls/todo-app">Repositorio</a></td>
   </tr>
   
   <tr>
