@@ -29,26 +29,18 @@ public class LucasGabriel {
 }
 ```
 
-###
-
 <h2 align="left">🤖 Tecnologias</h2>
 
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=java,python,ts,spring,react,mysql,docker,aws,azure" alt="My Skills">
 </a>
 
-###
-
 <h2 align="left">✉️ Contato</h2>
-
-###
 
 <ul>
   <li><a href="https://lucasgls.github.io/portifolio/">lucasglsilva7@gmail.com</a></li>
   <li><a href="https://wa.me/5519998991823">Whatsapp</a></li>
 </ul>
-
-###
 
 <h2 align="left">💻 Projetos em Destaque</h2>
 
@@ -79,5 +71,3 @@ public class LucasGabriel {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasgls/lucasgls/output/pacman-contribution-graph.svg">
 </picture>
-
-###
