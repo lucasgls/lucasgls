@@ -32,7 +32,7 @@ public class LucasGabriel {
 <h2 align="left">🤖 Tecnologias</h2>
 
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,react,mysql,docker,aws,azure" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,react,mysql,docker,azure" alt="My Skills">
 </a>
 
 <h2 align="left">✉️ Contato</h2>
