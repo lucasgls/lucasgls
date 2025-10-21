@@ -22,7 +22,7 @@ public class LucasGabriel {
         "Experiência em CRUD",
         "Banco de Dados Relacionais (MySQL)",
         "Versionamento de Código (Git/GitHub)",
-        "Cloud Computing (Azure, AWS)",
+        "Cloud Computing (Azure)",
         "Boas Práticas: Clean Code e Design Patterns",
         "Metodologias Ágeis: Scrum"
     };
