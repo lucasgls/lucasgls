@@ -19,7 +19,6 @@ public class LucasGabriel {
     private String[] habilidades = {
         "Programação Orientada a Objetos",
         "Experiência em dev/consumo de APIs",
-        "Experiência em CRUD",
         "Banco de Dados Relacionais (MySQL)",
         "Versionamento de Código (Git/GitHub)",
         "Cloud Computing (Azure)",
