@@ -19,7 +19,7 @@ public class LucasGabriel {
     private String[] habilidades = {
         "Programação Orientada a Objetos",
         "Experiência em dev/consumo de APIs",
-        "Banco de Dados Relacionais (MySQL)",
+        "Banco de Dados Relacionais (MySQL,PostgreSQL)",
         "Versionamento de Código (Git/GitHub)",
         "Cloud Computing (Azure)",
         "Boas Práticas: Clean Code e Design Patterns",
@@ -31,7 +31,7 @@ public class LucasGabriel {
 <h2 align="left">🤖 Tecnologias</h2>
 
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,react,mysql,docker,azure" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,react,mysql,postgres,docker,azure" alt="My Skills">
 </a>
 
 <h2 align="left">✉️ Contato</h2>
@@ -51,12 +51,17 @@ public class LucasGabriel {
     <th>Link</th>
   </tr>
   <tr>
+    <td>api-portifolio</td>
+    <td>API RESTful para gerenciamento de portfólio pessoal.</td>
+    <td>Java, Spring Boot, Spring Security, Postgres, Docker, Azure</td>
+    <td><a href="https://github.com/lucasgls/portifolio-api">Repositorio</a></td>
+  </tr>
+  <tr>
     <td>TODO App</td>
     <td>Gestão de tarefas com autenticação, CRUD e painel administrativo.</td>
     <td>Java, Spring Boot, React, MySQL, JWT</td>
     <td><a href="https://github.com/lucasgls/todo-app">Repositorio</a></td>
   </tr>
-  
   <tr>
     <td>Portfólio Pessoal</td>
     <td>Website pessoal para apresentar projetos pessoais. ( 🚧 )</td>
