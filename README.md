@@ -51,7 +51,7 @@ public class LucasGabriel {
     <th>Link</th>
   </tr>
   <tr>
-    <td>API portifólio</td>
+    <td>API Portifólio</td>
     <td>API RESTful para gerenciamento de portifólio pessoal.</td>
     <td>Java, Spring Boot, Spring Security, Postgres, Docker, Azure</td>
     <td><a href="https://github.com/lucasgls/portifolio-api">Repositorio</a></td>
