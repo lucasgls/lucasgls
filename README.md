@@ -23,7 +23,7 @@ public class LucasGabriel {
         "Versionamento de Código (Git/GitHub)",
         "Cloud Computing (Azure)",
         "Boas Práticas: Clean Code e Design Patterns",
-        "Metodologias Ágeis: Scrum"
+        "Metodologias Ágeis: Scrum, Kanban"
     };
 }
 ```
