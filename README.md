@@ -21,7 +21,7 @@ public class LucasGabriel {
         "Experiência em dev/consumo de APIs",
         "Banco de Dados Relacionais (MySQL,PostgreSQL)",
         "Versionamento de Código (Git/GitHub)",
-        "Cloud Computing (Azure)",
+        "Cloud Computing (Azure, AWS)",
         "Boas Práticas: Clean Code e Design Patterns",
         "Metodologias Ágeis: Scrum, Kanban"
     };
