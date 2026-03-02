@@ -64,7 +64,7 @@ public class LucasGabriel {
   </tr>
   <tr>
     <td>Portfólio</td>
-    <td>Website pessoal para apresentar projetos pessoais. ( 🚧 )</td>
+    <td>Website pessoal para apresentar projetos pessoais.</td>
     <td>React, TypeScript, Tailwind CSS, Vite</td>
     <td><a href="https://lucasgls.github.io/portifolio/">Visitar</a></td>
   </tr>
