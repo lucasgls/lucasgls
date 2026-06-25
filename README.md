@@ -14,6 +14,7 @@
 public class LucasGabriel {
     private String nome = "Lucas Gabriel Lima Silva";
     private String curso = "Engenharia de Software - USF";
+    private String empresaCargo = "PerformaIT - Backend Auxiliar";
     private String estudando = "C# / Java com foco em Backend";
     private String objetivo = "Ingressar no mercado de desenvolvimento de software";
     private String[] habilidades = {
